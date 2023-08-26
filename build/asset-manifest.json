@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b255173.css",
+    "main.js": "/static/js/main.576be377.js",
+    "static/js/787.68da362f.chunk.js": "/static/js/787.68da362f.chunk.js",
+    "static/media/ourTeam.gif": "/static/media/ourTeam.659dd2b1f7fbdad87c34.gif",
+    "static/media/Blank.png": "/static/media/Blank.6d3cb2b9d3737c4045f4.png",
+    "static/media/login.gif": "/static/media/login.99f2e2b5dcfe78daaaea.gif",
+    "static/media/banner3.png": "/static/media/banner3.d4bf39bf48d90ad80ba1.png",
+    "static/media/registration-animation.gif": "/static/media/registration-animation.6ad6cfb7618bd7d34d50.gif",
+    "static/media/banner2.png": "/static/media/banner2.0fe95d753266f0cb42ed.png",
+    "static/media/betchLogo.png": "/static/media/betchLogo.3ebb295ca50813ece246.png",
+    "static/media/banner1.jpg": "/static/media/banner1.b5078377084063599a8c.jpg",
+    "static/media/nedl banner.jpg": "/static/media/nedl banner.6986c1c373894507a4c8.jpg",
+    "static/media/Comming Soon.gif": "/static/media/Comming Soon.e28e735c86fdf13e22c2.gif",
+    "index.html": "/index.html",
+    "main.9b255173.css.map": "/static/css/main.9b255173.css.map",
+    "main.576be377.js.map": "/static/js/main.576be377.js.map",
+    "787.68da362f.chunk.js.map": "/static/js/787.68da362f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b255173.css",
+    "static/js/main.576be377.js"
+  ]
+}

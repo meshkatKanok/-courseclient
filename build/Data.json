@@ -1,0 +1,115 @@
+[
+    {
+      "productName": "Transformer",
+      "ProductImg": "https://static-01.daraz.com.bd/p/b81abd5af112eb77f889ee95567bb5bf.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "01",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "DC Power Bloun",
+      "ProductImg": "https://static-01.daraz.com.bd/p/51d87d1f99441c5138e7a944f28febb8.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "02",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "HARDEN Oil Can",
+      "ProductImg": "https://static-01.daraz.com.bd/p/6228d3d629d51b561e14b41523e3395e.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "03",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "Snap N Grip",
+      "ProductImg": "https://static-01.daraz.com.bd/p/d83f89b2f22196504e9d55488592a512.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "04",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "Screwdriver",
+      "ProductImg": "https://static-01.daraz.com.bd/p/61ca11f3b14aa28ff27f243e09a7c57d.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "05",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "Precision",
+      "ProductImg": "https://static-01.daraz.com.bd/p/06cce7c6f3298d9d1d5d44486b5146af.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "06",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "DASI Electric Drill",
+      "ProductImg": "https://static-01.daraz.com.bd/p/e7794329a9f79c5173633be35bf679b1.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "07",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "Wire Stripper",
+      "ProductImg": "https://static-01.daraz.com.bd/p/1eef2f82cdd650490de0473b7fc3b87f.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "08",
+      "price": "500"
+   
+    },
+    
+    {
+      "productName": "Butane Gas",
+      "ProductImg": "https://static-01.daraz.com.bd/p/79627de1b55ebfe78232dc7bd96371ac.jpg",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+       "category_id": "09",
+      "price": "500"
+   
+    }
+    
+     
+    
+     
+      
+       
+  ]

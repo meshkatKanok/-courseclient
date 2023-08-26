@@ -1,0 +1,53 @@
+ .certificate{
+    height:596.88pt;
+    width:841.68pt;
+     background-image: url(../asset/banner//Blank.png);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size:contain;
+     margin: 0 auto;
+     position: relative;
+     
+ }
+ .certificate-content{
+    position: absolute;
+    top:325px;
+    width: 85%;
+    height:316px;
+    left:85px;
+    text-align: justify;
+    /* border: 1px solid red; */
+  
+   
+ }
+ .certificate p{
+    font-family: Blackadder ITC;
+    font-size: 15pt;
+    font-weight:500;
+    color: #000000;
+    line-height:110%;
+ 
+ }
+ .certificate-dateline{
+    font-family: Blackadder ITC;
+    font-size: 15pt;
+    margin-top: 20px;
+    line-height: 110%;
+ }
+ .certificate-lastcontent{
+    font-family: Blackadder ITC;
+    font-size: 15pt;
+    text-align: justify;
+    margin-top: 20px;
+ }
+  
+ .certificate-bottom{
+    font-family: Blackadder ITC;
+    font-size: 15pt;
+    width: 85%;
+    height: 23px;
+    /* border: 1px solid red; */
+    position: absolute;
+    bottom: 97px;
+    left: 85px;
+ }

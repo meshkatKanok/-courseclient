@@ -1,0 +1,9 @@
+.servicesbody{
+    overflow: hidden;
+    transform: scale(1);
+    transition: 1s;
+}
+.servicesbody :hover .servicesImg{
+    transform: scale(1.5);
+    transition: 1.5s ease-in-out;
+}
